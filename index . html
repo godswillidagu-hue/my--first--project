@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111111;
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        h1 {
+            color: #ffcc00;
+        }
+
+        p {
+            line-height: 1.8;
+        }
+
+        .button {
+            display: inline-block;
+            background: #ffcc00;
+            color: black;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>Hello! I am learning digital skills and web development.</p>
+
+    <p>I want to build useful digital projects and help people
+    grow their businesses online.</p>
+
+    <a class="button" href="mailto:your-email@example.com">
+        Contact Me
+    </a>
+
+</body>
+</html>
